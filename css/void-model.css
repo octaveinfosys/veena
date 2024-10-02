@@ -371,15 +371,6 @@ Intro Section
   overflow: hidden;
 }
 
-#intro::after{
-  content: "01";
-  color: #0c0c0c;
-  font-family: 'Abril Fatface', cursive;
-  font-size: 230px;
-  position: absolute;
-  top: 20%;
-  right: 8%;
-}
 
 /*positioning the scene layers*/
 
